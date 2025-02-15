@@ -37,23 +37,25 @@
 ***Nombre:*** Registrar resultados\
 ***Actor:*** Secretario
 
-***Nombre:*** Sistema\  
+***Nombre:*** Sistema    
 ***Actor:*** Registrar resultados  
 >_Nota:_ En este caso si que se realiza de cara al sistema
 
 
-## Ejercicio A3)
+## Ejercicio A3.
 
-Nombre: Actualizar información avión e información personal (Existen dos escenarios, mismo procedimiento o se pueden dividir en dos, en caso de que los procedimientos no sean diferentes) 
-Actor: Propietario 
+***Nombre:*** Actualizar información avión e información personal/   
+***Actor:*** Propietario
+>_Nota:_ Existen dos escenarios, juntarlos en el  mismo procedimiento o se pueden dividir en dos, en caso de que los procedimientos realicen  diferentes acciones.
 
-Nombre: Registrar fallo del avión 
-Actor: Piloto 
+***Nombre:*** Registrar fallo del avión 
+***Actor:*** Piloto 
 
-/* Nombre: Asignar mecanico a fallo de avión  
-Actor: Sistema */ No es un caso de uso, es un paso dentro de un caso de uso
+~~Nombre: Asignar mecanico a fallo de avión~~\ 
+~~Actor: Sistema~~ 
+>_Nota:_ No es un caso de uso, es un paso dentro de un caso de uso
 
-## Ejercicio B1)
+## Ejercicio B1.
 
 Nombre: Registrar un nuevo piso 
 Actor: Guardia (Depende de la decisión del cliente)
