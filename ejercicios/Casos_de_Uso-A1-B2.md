@@ -24,20 +24,23 @@
 
 ## Ejercicio A2.
 
-Nombre: Inscribirse en el sistema
-Actor: Jugador
+***Nombre:*** Inscribirse en el sistema\
+***Actor:*** Jugador
 
-Nombre: Regirtrase en el torneo (La anterior y esta pueden ser un unico caso de uso)
-Actor: Jugador
+***Nombre:*** Regirtrase en el torneo\
+***Actor:*** Jugador
+>_Nota:_ Los dos primeros casos de uso pueden unirse en solo uno  
 
-Nombre: Asignar caddie a jugador en torneo
-Actor: Caddie Master 
+***Nombre:*** Asignar caddie a jugador en torneo\
+***Actor:*** Caddie Master 
 
-Nombre: Registrar resultados
-Actor: Secretario
+***Nombre:*** Registrar resultados\
+***Actor:*** Secretario
 
-Nombre: Sistema (En este caso si que se realiza de cara al sistema) 
-Actor: Registrar resultados
+***Nombre:*** Sistema\  
+***Actor:*** Registrar resultados  
+>_Nota:_ En este caso si que se realiza de cara al sistema
+
 
 ## Ejercicio A3)
 
