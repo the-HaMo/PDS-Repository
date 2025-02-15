@@ -46,7 +46,7 @@
 
 ## Ejercicio A3.
 
-***Nombre:*** Actualizar información avión e información personal\  
+***Nombre:*** Actualizar información avión e información personal  
 ***Actor:*** Propietario
 >_Nota:_ Existen dos escenarios, juntarlos en el  mismo procedimiento o se pueden dividir en dos, en caso de que los procedimientos realicen  diferentes acciones.
 
@@ -60,7 +60,7 @@
 ## Ejercicio B1.
 
 ***Nombre:*** Registrar un nuevo piso  
-***Actor:*** Guardia\    
+***Actor:*** Guardia    
 >_Nota:_ Depende de la decisión del cliente, la asignación del actor
 
 ***Nombre:*** Cambiar celdas de vigilancia\
@@ -98,9 +98,9 @@
 
 ***Nombre:*** Registrar diagnóstico y tratamientos 
 >_Nota:_ No hay mucha diferencia entre registrar el diagnostico o tratamiento del médico y el enfermero  
-  
+
 ***Actor:*** Facultativo
 
-***Nombre:*** Generar factura\ 
+***Nombre:*** Generar factura  
 ***Actor:*** Sistema  
 
