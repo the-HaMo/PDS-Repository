@@ -44,14 +44,14 @@
 
 ## Ejercicio A3.
 
-***Nombre:*** Actualizar información avión e información personal/   
+***Nombre:*** Actualizar información avión e información personal\  
 ***Actor:*** Propietario
 >_Nota:_ Existen dos escenarios, juntarlos en el  mismo procedimiento o se pueden dividir en dos, en caso de que los procedimientos realicen  diferentes acciones.
 
-***Nombre:*** Registrar fallo del avión 
+***Nombre:*** Registrar fallo del avión\
 ***Actor:*** Piloto 
 
-~~Nombre: Asignar mecanico a fallo de avión~~\ 
+~~Nombre: Asignar mecanico a fallo de avión~~   
 ~~Actor: Sistema~~ 
 >_Nota:_ No es un caso de uso, es un paso dentro de un caso de uso
 
@@ -78,7 +78,7 @@ Actor: Preso
 Nombre: Aceptar/Rechazar Solicitud de cambio de celda
 Actor: Supervisor de módulo
 
-## Ejercicio B2)
+## Ejercicio B2.
 
 Nombre: Registar acreditación de trabajador y Asignar trabajador a servicio 
 Actor: Administrador
