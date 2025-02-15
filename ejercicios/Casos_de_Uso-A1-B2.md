@@ -16,10 +16,10 @@
 ***Actor:*** Secretario  
 
 ***Nombre:*** Confirmar vigilancia  
->_Nota:_ Se realiza de cara al sistema, si no se realiza de cara al sistema no es un caso de uso 
+>_Nota:_ Se realiza de cara al sistema, si no se realiza de cara al sistema no es un caso de uso   
 ***Actor:*** Profesor vigilante   
 
->_Nota General:_ los Requisitos Funcionales; Describe la funcionalidad del sistema, no cambian el estado de mi sistema mientras que un Caso de Uso; Es un subconjunto de los requisitos funcionales, cambian el estado de mi sistema\ 
+>_Nota General:_ los Requisitos Funcionales; Describe la funcionalidad del sistema, no cambian el estado de mi sistema mientras que un Caso de Uso; Es un subconjunto de los requisitos funcionales, cambian el estado de mi sistema 
 
 ## Ejercicio A2.
 
