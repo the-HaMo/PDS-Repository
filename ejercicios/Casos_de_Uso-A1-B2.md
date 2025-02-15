@@ -88,15 +88,17 @@
 
 ## Ejercicio B2.
 
-***Nombre:*** Registar acreditación de trabajador y Asignar trabajador a servicio\  
+***Nombre:*** Registar acreditación de trabajador y Asignar trabajador a servicio    
 ***Actor:*** Administrador
 
 ***Nombre:*** Pedir cita, Pagar cita
->_Nota:_ Procedimiento para pedir una cita normal o visita adicional es el mismo (no hay mucha diferencia)  
+>_Nota:_ Procedimiento para pedir una cita normal o visita adicional es el mismo (no hay mucha diferencia)
+
 ***Actor:*** Paciente
 
 ***Nombre:*** Registrar diagnóstico y tratamientos 
 >_Nota:_ No hay mucha diferencia entre registrar el diagnostico o tratamiento del médico y el enfermero  
+  
 ***Actor:*** Facultativo
 
 ***Nombre:*** Generar factura\ 
