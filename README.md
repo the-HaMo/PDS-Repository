@@ -10,4 +10,4 @@ B1 y B2. Que se mostrará en el siguiente enlace:
 
 Tras identificar los casos de uso de los anteriores ejercicios, en esta semana nos centraremos en 
 realizar el modelado de dominio de cada ejercicio:
-- [Modelado_de_Dominio-A1-B2](https://pages.github.com/)
+- [Modelado_de_Dominio-A1-B2](https://github.com/the-HaMo/PDS-Repository/blob/main/ejercicios/Modelado_de_Dominio-A1-B2.md)
