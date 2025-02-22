@@ -1,28 +1,6 @@
 ## Ejercicio A1.
- 
-***Nombre:*** Asignar Turno, aulas y profesor responsable 
-> _Nota:_ Se puede dividir en tres casos de uso, pero cuando puedes asignarse todo a la vez (mismas características) entonces puede ser uno solo
 
-***Actor:*** Secretario  
-
-***Nombre:*** Solicitar ayuda para vigilar\
-***Actor:*** Profesor Responsable
-
-~~Nombre: Notificar solicitud~~\
-~~Actor: Sistema~~    
-> _Nota:_ cuando el Sistema hace algo sin ninguna solicitud es un caso de uso, en caso contrario no es un caso de uso, sino un paso dentro del sistema  
-
-***Nombre:*** Validar Asignaciones\
-***Actor:*** Secretario  
-
-***Nombre:*** Confirmar vigilancia  
->_Nota:_ Se realiza de cara al sistema, si no se realiza de cara al sistema no es un caso de uso   
-
-***Actor:*** Profesor vigilante   
-
->_Nota General:_ los Requisitos Funcionales; Describe la funcionalidad del sistema, no cambian el estado de mi sistema mientras que un Caso de Uso; Es un subconjunto de los requisitos funcionales, cambian el estado de mi sistema 
-
->_Nota General:_ Funcionalidad de cara al sistema 
+![https://github.com/the-HaMo/PDS-Repository/blob/main/images/A1.jpg]
 
 ## Ejercicio A2.
 
