@@ -13,7 +13,7 @@ realizar el modelado de dominio de cada ejercicio:
 - [Modelado_de_Dominio-A1-B2](https://github.com/the-HaMo/PDS-Repository/blob/main/ejercicios/Modelado_de_Dominio-A1-B2.md)
 
 
-### SESIÓN 4 **Semana 17-21 Febrero**
+### SESIÓN 4 **Semana 24-28 Febrero**
 
 Continuamos con el modelado de dominio en este caso del ejercicio B3 al B8:
 - [Modelado_de_Dominio-B3-B8](https://github.com/the-HaMo/PDS-Repository/blob/main/ejercicios/Modelado_de_Dominio-A1-B2.md)
