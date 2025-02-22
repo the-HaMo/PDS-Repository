@@ -1,6 +1,6 @@
 ## Ejercicio A1.
 
-![https://github.com/the-HaMo/PDS-Repository/blob/main/images/A1.jpg]
+![Ejercicio A1](https://github.com/the-HaMo/PDS-Repository/blob/main/images/A1.jpg)
 
 ## Ejercicio A2.
 
